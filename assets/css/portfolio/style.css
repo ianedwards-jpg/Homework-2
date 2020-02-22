@@ -1,5 +1,20 @@
 .jumbotron {
 margin-bottom: 0px;
 background-color: mistyrose;
-
+}
+.card-body {
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    
+}
+.img-fluid {
+    border: 2px solid black;
+    height: 225px;
+    width: 348px; 
+}
+.nycnightwatercolor {
+    height: 225px;
+    width: 348px;
 }
