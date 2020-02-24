@@ -1,14 +1,22 @@
 /* Portfolio Page CSS
 -------------------------------------------------- */
-.jumbotron, .footer {
+body {
+    overflow: hidden;
+}
+.jumbotron {
 margin-bottom: 0px;
 background-color: mistyrose;
+padding: 20px;
 }
 
 .footer {
-position: fixed;
-bottom: 3px;
-
+    position: fixed;
+    bottom: 0px;
+    height: 30px;
+    width: 100%;
+    line-height: 24px;
+    align-items: left;
+    background-color: #6c757d;
 
 }
 
