@@ -1,7 +1,17 @@
+/* Portfolio Page CSS
+-------------------------------------------------- */
 .jumbotron, .footer {
 margin-bottom: 0px;
 background-color: mistyrose;
 }
+
+.footer {
+position: fixed;
+bottom: 3px;
+
+
+}
+
 .card-body, .small{
     padding-top: 10px;
     padding-right: 10px;
