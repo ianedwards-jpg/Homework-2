@@ -1,2 +1,2 @@
 # Homework-2
-First Website!!!
+This website is a demonstration of Bootstrap CSS and HTML5.
